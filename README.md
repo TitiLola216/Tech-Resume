@@ -1,5 +1,8 @@
 # Tech-Resume
-Ta'Mika Reynolds Tech Resume 
+Ta’Mika Reynolds PSM I 
+Client Success and Operations Professional   
+
+
 I bring 15+ years of experience supporting customers, managing client relationships, resolving 
 complex issues, and improving service delivery across client-facing and technology-driven 
 environments, including 8 years supporting SaaS platforms. My background combines customer 
