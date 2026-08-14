@@ -21,7 +21,8 @@ prepared to contribute to customer onboarding, product adoption, customer educat
 resolution, retention, workflow optimization, and measurable customer outcomes while 
 partnering effectively across teams.
 
-##- Connect
+## Connect
+
  -- Email: [thoromikkirey@gmail.com](mailto:thoromikkirey@gmail.com)
  - Phone: [678-768-4770](tel:+16787684770)
  - LinkedIn: [Ta'Mika Reynolds](https://www.linkedin.com/in/tamika-reynolds-b0563138/)
