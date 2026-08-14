@@ -9,6 +9,7 @@ environments, including 8 years supporting SaaS platforms. My background combine
 success, CRM and ticket management, customer onboarding, technical troubleshooting, 
 customer education, escalation management, cross-functional collaboration, root cause analysis, 
 and process improvement. 
+
 I specialize in translating complex issues into clear solutions, identifying patterns, documenting 
 knowledge, improving workflows, and helping teams deliver consistent, high-quality customer 
 experiences. My experience managing 3,000+ client cases annually, maintaining 95%+ First 
@@ -18,4 +19,4 @@ As a Professional Scrum Master I with Lean Six Sigma expertise, I bring a contin
 improvement mindset and the ability to connect customers, technology, and operations. I am 
 prepared to contribute to customer onboarding, product adoption, customer education, issue 
 resolution, retention, workflow optimization, and measurable customer outcomes while 
-partnering effectively across teams
+partnering effectively across teams.
