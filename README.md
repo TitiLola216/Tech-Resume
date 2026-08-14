@@ -1,6 +1,6 @@
 # Tech-Resume
 Ta’Mika Reynolds PSM I 
-Client Success and Operations Professional   
+Tech Specialist. Client Success and Operations Professional   
 
 
 I bring 15+ years of experience supporting customers, managing client relationships, resolving 
