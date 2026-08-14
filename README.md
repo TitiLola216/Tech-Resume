@@ -2,7 +2,7 @@
 Ta’Mika Reynolds PSM I 
 Tech Specialist. Client Success and Operations Professional   
 ## Resume
-[View or download my resume PDF](./file:///C:/Users/mikki/Downloads/TMRt%20(1).pdf)
+[View or download my resume PDF](./TMRt.pdf?raw=true)
 
 I bring 15+ years of experience supporting customers, managing client relationships, resolving 
 complex issues, and improving service delivery across client-facing and technology-driven 
